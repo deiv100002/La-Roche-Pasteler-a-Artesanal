@@ -52,7 +52,7 @@ http://www.templatemo.com/tm-515-eatery
                     </button>
 
                     <!-- lOGO TEXT HERE -->
-                    <a href="index.html" class="navbar-brand">La Roche<span>,</span> Pastelería Artesanal</a>
+                    <a href="index.php" class="navbar-brand">La Roche<span>,</span> Pastelería Artesanal</a>
                </div>
 
                <!-- MENU LINKS -->
